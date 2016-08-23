@@ -1,0 +1,2 @@
+# macrosGAR
+Automatizacion de registros
